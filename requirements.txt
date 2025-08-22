@@ -6,6 +6,7 @@ https://huggingface.co/turkish-nlp-suite/tr_core_news_trf/resolve/main/tr_core_n
 scipy
 pandas
 scikit-learn
+gensim
 nltk
 lxml
 transformers==4.25.1
