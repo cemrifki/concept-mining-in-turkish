@@ -2,5 +2,5 @@ from src import extracting_concepts_from_docs as ecd, generating_turkish_hyperny
 
 
 if __name__ == "__main__":
-    # gth.main()
+    gth.main()
     ecd.main()
