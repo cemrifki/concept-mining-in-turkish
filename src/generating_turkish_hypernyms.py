@@ -126,7 +126,7 @@ def main():
     hypernyms_list = []
     letter_dict = {}
 
-    df = df.iloc[:50]
+    # df = df.iloc[:50]
     df = df[df.apply(lambda row: "isim" in row["lex_class"], axis=1)]
 
     tqdm.pandas()  # Enable progress_apply
