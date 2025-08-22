@@ -56,7 +56,7 @@ python3 main.py
 If you find this code useful, please cite the following in your work:
 ```
 @misc{concept-mining-in-turkish,
-  author       = {Cem Rıfkı Aydın},
+  author       = {Cem Rifki Aydin},
   title        = {Concept Mining in Turkish using BERT},
   howpublished = {\url{https://github.com/cemrifki/concept-mining-in-turkish}},
   year         = {2025},
