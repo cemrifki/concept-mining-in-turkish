@@ -151,7 +151,7 @@ def main():
     # Using the lexical dataset to extract concepts
     # =======================================================
 
-    df_tr_hypernyms = pd.read_csv(os.path.join("resources", "lexical_dataset", 
+    df_tr_hypernyms = pd.read_csv(os.path.join("resources", "lexical_database", 
                                                "Turkish_words_and_hypernyms.csv"))
     top_k = 3  # number of top sentences to consider
 
