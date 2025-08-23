@@ -61,7 +61,7 @@ def clean_turkish_text(text):
 
 def main():
     # Path to your folder containing XML files
-    folder_path = os.path.join("Turkish_Dictionary", "Dictionary")
+    folder_path = os.path.join("resources", "dictionary")
     xml_files = glob.glob(os.path.join(folder_path, "**", "HARF*.xml"), recursive=True)
 
     # List to store all entries
