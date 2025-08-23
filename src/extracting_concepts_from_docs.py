@@ -130,7 +130,7 @@ def main():
         print("-", s)
 
     # =======================================================
-    # Using the lexical dataset to extract keywords
+    # Using the document only to extract keywords
     # =======================================================
 
     print("Embedding shape:", top_embeddings[0].shape)
@@ -148,7 +148,7 @@ def main():
 
 
     # =======================================================
-    # Using the lexical dataset to extract concepts
+    # Using the lexical database to extract concepts
     # =======================================================
 
     df_tr_hypernyms = pd.read_csv(os.path.join("resources", "lexical_database", 
