@@ -30,8 +30,8 @@ concept-mining-in-turkish/
 │
 ├── src/
 │   ├── extracting_concepts_from_docs.py    # Module to extract concepts from documents
-│   └── generating_turkish_hypernyms.py     # Module for generating Turkish hypernyms using the official Turkish dictionary
-│
+│   └── generating_turkish_hypernyms.py     # Module for generating Turkish hypernyms using the official Turkish dictionary and the Turkish BERT model
+│                                           
 ├── datasets/
 │   ├── forensic_decisions/                 # Dataset containing forensic decisions
 │   ├── forensic_news/                      # Dataset containing forensic news articles
