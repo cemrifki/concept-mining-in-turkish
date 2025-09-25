@@ -184,44 +184,6 @@ def main(args=None):
             else:
                 print("No sentences found, skipping output.")
 
-def main_tmp(args=None):
-    
-    df_tr_hypernyms = pd.read_csv(args.lexical_db)
-
-    for root, _, files in os.walk(args.dataset):
-        for fname in files:
-            if not fname.lower().endswith(".txt"):
-                continue
-
-            file_path = os.path.join(root, fname)
-            rel_path = os.path.relpath(file_path, args.dataset)
-
-            # Split top-level category (sports, laws, news)
-            category = rel_path.split(os.sep)[0]
-            rest_path = os.sep.join(rel_path.split(os.sep)[1:])
-
-            # Create category folder with prefix "concepts_"
-            output_category = f"concepts_{category}"
-            output_dir = os.path.join(args.output, output_category, os.path.dirname(rest_path))
-            os.makedirs(output_dir, exist_ok=True)
-
-            output_file = os.path.join(output_dir, fname.rsplit(".", 1)[0] + ".json")
-
-            print(f"\n=== Processing {file_path} ===")
-            try:
-                doc_text = read_txt(file_path)
-            except Exception as e:
-                print(f"Error reading {file_path}: {e}")
-                continue
-
-            results = process_document(doc_text, df_tr_hypernyms, args.top_k)
-            if results:
-                with open(output_file, "w", encoding="utf-8") as f:
-                    json.dump(results, f, indent=2, ensure_ascii=False)
-                print(f"Saved results → {output_file}")
-            else:
-                print("No sentences found, skipping output.")
-
 
 if __name__ == "__main__":
     main(args=None)

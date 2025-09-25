@@ -45,7 +45,7 @@ if __name__ == "__main__":
     args = parse_args()
     if args.generate_hypernyms:
         gth.main(args)
-    ecd.main_tmp(args)
+    ecd.main(args)
 
 """
 Example usages:
