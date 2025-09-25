@@ -30,7 +30,7 @@ concept-mining-in-turkish/
 │
 ├── src/
 │   ├── extracting_concepts_from_docs.py    # Module to extract concepts from documents
-│   └── generating_turkish_hypernyms.py     # Module to generate Turkish hypernyms
+│   └── generating_turkish_hypernyms.py     # Module for generating Turkish hypernyms using the official Turkish dictionary
 │
 ├── datasets/
 │   ├── forensic_decisions/                 # Dataset containing forensic decisions
@@ -39,7 +39,7 @@ concept-mining-in-turkish/
 │
 ├── resources/
 │   ├── dictionary/                         # Dictionary resources for NLP tasks
-│   └── lexical_database/                   # Lexical database for linguistic references
+│   └── lexical_database/                   # Lexical database containing hypernyms for linguistic reference
 │
 ├── LICENSE                                  # License file for the project
 ├── README.md                                # Project documentation (this file)
