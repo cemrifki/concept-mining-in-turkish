@@ -56,7 +56,7 @@ python main.py \
   --output output \
   --top-k 3
 ```
-Another example usage, where the Turkish hypernym lexical database is regenerated:
+Another example usage, where the Turkish hypernym lexical database is regenerated in advance:
 
 ```
 python main.py \
