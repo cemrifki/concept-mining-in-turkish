@@ -22,7 +22,31 @@ Unfortunately, I cannot share the full Turkish dictionary due to copyright restr
 - lxml 
 
  The code can work through `Python 3.9` or a newer version thereof. I tested it relying on `Python 3.9`. In this project, `python3` and `pip3`. We leveraged two datasets, which are sentiment and spam corpora and which can be found in the input folder.
- 
+
+## Project Structure
+
+```bash
+concept-mining-in-turkish/
+│
+├── src/
+│   ├── extracting_concepts_from_docs.py    # Module to extract concepts from documents
+│   └── generating_turkish_hypernyms.py     # Module to generate Turkish hypernyms
+│
+├── datasets/
+│   ├── forensic_decisions/                 # Dataset containing forensic decisions
+│   ├── forensic_news/                      # Dataset containing forensic news articles
+│   └── sports_news/                        # Dataset containing sports news articles
+│
+├── resources/
+│   ├── dictionary/                         # Dictionary resources for NLP tasks
+│   └── lexical_database/                   # Lexical database for linguistic references
+│
+├── LICENSE                                  # License file for the project
+├── README.md                                # Project documentation (this file)
+├── requirements.txt                         # Python dependencies for the project
+└── main.py                                  # Entrypoint script for training/evaluation
+```
+
  ## Execution
 
 Execute the file `main.py` to generate a hypernymy dictionary and to extract keywords from documents.
