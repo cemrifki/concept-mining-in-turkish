@@ -1,0 +1,26 @@
+﻿T.C. YARGITAY ONBİRÎNCİ HUKUK DAİRESİ 
+
+ESAS                     KARAR
+2005/4748              2006/7341
+
+YARGITAY KARARI
+
+MAHKEMESİ	: Kadıköy Asliye 4.Ticaret Mahkemesi
+GÜNÜ		: 01.02.2005
+SAYISI		: 2003/46-2005/61
+DAVACI		: Bilen Ağar                                Vekili:Av. Alpaslan Aksoy
+DAVALI		: Akbank TAŞ.Genel Müdürlüğü Vekili:Av. Aslı Yıldız Kaya
+
+Taraflar arasında görülen davada Kadıköy Asliye 4.Ticaret Mahkemesi'nce verilen 01.02.2005 tarih ve 2003/46-2005/61 sayılı kararın Yargıtay'ca incelenmesi duruşmalı olarak davalı vekili tarafından istenmiş olmakla, duruşma için belirlenen 20.06.2006 gününde davacı avukatı Bilen Ağar ile davalı avukatı Hasan Esen gelip, temyiz dilekçesinin de süresinde verildiği anlaşıldıktan ve duruşmada hazır bulunan taraflar avukatları dinlenildikten sonra, duruşmalı işlerin yoğunluğu ve süre darlığından ötürü işin incelenerek karara bağlanması ileriye bırakılmıştı.- Dava dosyası için Tetkik Hakimi Yaşar Arslan tarafından düzenlenen rapor dinlenildikten ve yine dosya içerisindeki dilekçe, layihalar, duruşma tutanakları ve tüm belgeler okunup incelendikten sonra işin gereği görüşülüp, düşünüldü:
+
+Davacı vekili, müvekkilinin davalı banka nezdindeki hesabının O.Aktaş adlı kişi tarafından internet şifresi ile geçirilip kullanılarak çekildiğini, elektronik bankacılık hizmetinde gereken güvenliği sağlayamayan davalının sorumlu olduğunu ileri sürerek, (20.146.720.234) TL.'nin faiziyle davalıdan tahsilini talep ve dava etmiştir.
+Davalı vekili, kişisel bilgisayarının güvenliğini sağlamayan, sanal klavye kullanmayan, havale işlemlerini sınırlayan parola kullanımını aktif hale getirmeyen davacının şifrenin başkalarınca ele geçirilmesinde kusurlu olduğunu, üçüncü kişilerin müşterilerin kullanıcı kodu ve şifre bilgilerini banka sisteminden sağlamalarının olanaksız olduğunu savunmuştur.
+
+Mahkemece, mübrez belgelere ve banka merkezinde yapılan bilirkişi incelemesi sonucuna dayanılarak, davacının Suadiye ve Bostancı Şubelerindeki hesaplarından dava dışı kişinin Konak-İzmir Şubesindeki hesabına (16) ayrı işlemle (20.146.720.234) TL'nin internet şubesi aracılığı ile havale edildiği, 15 dakika içinde (16) ayrı işlemle para havalesi yapılmasını fark eden güvenlik sisteminin davalı bankada bulunmadığı, iki gün sonra sisteme girmeye çalışan davacının kullanıcı şifresinin değiştirilmesi nedeniyle girememesine karşın bankanın her hangi bir kilitleme yapmadığı, objektif özen yükümlülüğünü yerine getirmeyen davalı bankanın hafif kusurlarından dahi sorumlu olduğu, davacının şifresini koruma yükümlülüğüne uygun davranmadığı ve müterafik kusurlu olduğu savunmasının kanıtlanamadığı gerekçesiyle davanın kabulüne karar verilmiştir.
+Kararı, davalı vekili temyiz etmiştir.
+.../...
+2005/4748 2006/7341
+S(2)
+Dava dosyası içerisindeki bilgi ve belgelere, mahkeme kararının gerekçesinde dayanılan delillerin tartışılıp, değerlendirilmesinde usul ve yasaya aykırı bir yön bulunmamasına ve kararın dayandırıldığı 16.08.2004 tarihli uzman bilirkişiler kurulu raporunda yer alan saptamalardan, davalı bankanın iki ayrı şubesinde hesabı bulunan davacının taraflar arasındaki bireysel internet şubesi sözleşmesi uyarınca davalının internet şubesi nezdinde yaptığı işlemlerde kullandığı kullanıcı adı ve şifresi'nin bilgisayarına yerleşmiş casus programlarda başkasınca elde edilerek davacı hesaplarından (20.146.720.234) TL'nin çok kısa bir süre içerisinde (16) ayrı işlemle internet yolu ile davacının haberi olmadan davalı bankanın Konak Şubesi'ne aktarılmasında bu tür bilgisayar korsanlığı yöntemiyle işlemler yapılmasını önleme yolunda ek güvenlik tedbirleri almayan ve olaydan sonra bu yola tevessül eden davalının kusurlu ve sorumlu bulunduğunun, davacının sanal klavye kullanması halinde dahi bunun yapılan bilgisayar korsanlığını engellemeye teknik olarak yetmeyeceğinin anlaşılmasına, işlemi yapan kişi hakkındaki ceza soruşturması sonucunun hafif kusurundan dahi sorumlu olan davalı banka bakımından etkili görülmemesine göre, davalı vekilinin temyiz itirazlarının reddi gerekmiştir.
+
+SONUÇ: Yukarıda açıklanan nedenlerle, davalı vekilinin temyiz itirazlarının reddi ile kararın ONANMASINA, takdir edilen 450.00 YTL duruşma vekillik ücretinin davalıdan alınarak davacıya verilmesine, aşağıda yazılı bakiye 815.94 YTL. temyiz ilam harcının temyiz edenden alınmasına, 22.06.2006 tarihinde oybirliğiyle karar verildi.

@@ -59,7 +59,7 @@ def clean_turkish_text(text):
     return text
 
 
-def main():
+def main(args=None):
     # Path to your folder containing XML files
     folder_path = os.path.join("resources", "dictionary")
     xml_files = glob.glob(os.path.join(folder_path, "**", "HARF*.xml"), recursive=True)
@@ -221,5 +221,5 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    main(args=None)
 
