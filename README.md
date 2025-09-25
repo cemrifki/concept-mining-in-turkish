@@ -48,8 +48,23 @@ If everything works well, you can run the example usage given below.
       3. Run the exemplary main.py file.
 
 Example:
+
 ```
-python3 main.py
+python main.py \
+  --dataset datasets \
+  --lexical-db resources/lexical_database/Turkish_words_and_hypernyms.csv \
+  --output output \
+  --top-k 3
+```
+Another example usage, where the Turkish hypernym lexical database is regenerated:
+
+```
+python main.py \
+  --dataset ./datasets \
+  --lexical-db ./resources/lexical_database/Turkish_words_and_hypernyms.csv \
+  --output ./output \
+  --top-k 5 \
+  --generate-hypernyms
 ```
 ## Citation
 If you find this code useful, please cite the following in your work:
