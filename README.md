@@ -1,7 +1,7 @@
 # Dictionary-Based Concept Mining in Turkish Leveraging BERT Models
 This repository performs concept mining for Turkish. It leverages the Turkish BERT model and utilizes the official Turkish dictionary. Ultimately, concepts / hypernyms are extracted from Turkish documents. The template for the Turkish BERT model can be adjusted to generate more plausible tokens according to your requirements. 
 
-Unfortunately, I cannot share the full Turkish dictionary due to copyright restrictions, so only a small portion is provided. The functionality for extracting both keywords and concepts has been integrated. For testing, I used three Turkish corpora from different genres as datasets. In the meantime, I will also keep trying to improve the performance of the BERT model in generating the hypernymy dictionary.
+Unfortunately, I cannot share the full Turkish dictionary due to copyright restrictions, so only a small portion is provided. The functionality for extracting both keywords and concepts has been integrated. For testing, I used two Turkish corpora from different genres as datasets. In the meantime, I will also keep trying to improve the performance of the BERT model in generating the hypernymy dictionary.
 
 
 ## Requirements
