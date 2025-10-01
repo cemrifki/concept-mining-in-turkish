@@ -5,14 +5,14 @@ from src import extracting_concepts_from_docs as ecd, generating_turkish_hyperny
 
 def parse_args():
     parser = argparse.ArgumentParser(
-        description="Process Turkish .docx documents recursively for summarization and concept extraction."
+        description="Process Turkish text documents recursively for summarization and concept extraction."
     )
 
     parser.add_argument(
         "--dataset",
         type=str,
         required=True,
-        help="Path to dataset folder containing .docx documents (possibly in subfolders).",
+        help="Path to dataset folder containing documents (possibly in subfolders).",
     )
     parser.add_argument(
         "--lexical-db",
